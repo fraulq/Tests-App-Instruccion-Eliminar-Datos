@@ -1,0 +1,10 @@
+INSTRUCCIONES PARA LA ELIMINACIÓN DE DATOS
+raulapp es una aplicación de acceso a Facebook y no guardamos tus datos personales en nuestro servidor. De acuerdo con la política de Facebook, debemos proporcionar la URL de recordatorio de eliminación de datos del usuario o la URL de instrucciones de eliminación de datos.
+
+Si desea eliminar sus actividades para la aplicación raulapp, puede eliminar su información siguiendo estos pasos:
+
+Ve a la configuración de tu cuenta de Facebook y a la privacidad. Haga clic en “Configuración”.
+Busca “Aplicaciones y sitios web” y verás todas las aplicaciones y sitios web que tienes vinculados a tu Facebook.
+Busque y haga clic en “raulapp” en la barra de búsqueda.
+Desplázate hacia abajo y haz clic en “Eliminar”.
+Enhorabuena, ha eliminado con éxito las actividades de su aplicación.
